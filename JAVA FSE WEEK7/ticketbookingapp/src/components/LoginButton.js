@@ -1,0 +1,5 @@
+export function LoginButton({ onClick }) {
+  return <button onClick={onClick}>Login</button>;
+}
+
+

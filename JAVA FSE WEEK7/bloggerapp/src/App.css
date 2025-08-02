@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  border-left: 5px solid green;
+  padding: 0 20px;
+}
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 15px;
+}
